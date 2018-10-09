@@ -1,0 +1,9 @@
+*.txt
+*.pdf
+*.csv
+*.pyc
+*.npy
+*.png
+nohup.out
+pics/
+elect_variable_input.py
